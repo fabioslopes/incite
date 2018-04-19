@@ -7,4 +7,9 @@ Before to install HYSPLIT one must to install all other programs following the s
 5 - ImageMagick-7.0.7-28-Q16-x64-dll
 6 - setup_HYSPLIT_win64U
 
-to more information 
+to more information got to 
+
+HYSPLIT download utilities https://www.ready.noaa.gov/HYSPLIT_util.php
+
+HYSPLIT vídeo tutorials 	 https://www.ready.noaa.gov/documents/Videos/index.html
+
